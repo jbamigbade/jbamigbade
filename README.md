@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced machine learning algorithms, cloud computing (AWS), and DevOps best practices.
 - 💞️ I’m looking to collaborate on innovative projects in software engineering, data analysis, and AI development. I’m especially passionate about projects that leverage technology to drive social impact.
 - 📫 How to reach me: You can email me at [obamigbade@gmail.com](mailto:obamigbade@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/john-bamigbade-77255531/).
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: 
 - ⚡ Fun fact: When I'm not coding, I enjoy exploring statistical models for fun and mentoring upcoming tech enthusiasts.
 
 <!---
