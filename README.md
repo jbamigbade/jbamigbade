@@ -6,6 +6,15 @@ I’m a mission-driven technologist with 13+ years of cross-domain experience ac
 
 ---
 
+## 🧠 Overview
+
+- 🧪 130+ GitHub projects covering AI, cybersecurity, clinical research tools, and backend engineering  
+- 🔍 Focused on AI assurance, secure systems, and compliance-ready ML pipelines  
+- 🚀 Skilled in Java, Python, Spring Boot, SQL, DevOps, and cloud-native deployment  
+- 🎓 M.Sc. candidate in Mathematics | Certified in Scrum, DevOps, and Advanced Analytics  
+
+---
+
 ## 🔍 Areas of Focus
 
 - ✅ Trustworthy & Explainable AI (XAI)  
@@ -41,13 +50,13 @@ Backend API built with Spring Boot supporting account creation, post CRUD, valid
 
 Hands-on labs simulating SOC workflows, threat hunting, and secure code analysis using Splunk, VirusTotal, MITRE ATT&CK, and Python.
 
-- 🔗 [Secure Coding Practices & Hardening (Project 1)](https://docs.google.com/document/d/1MnTPclQ6vYGlGBQbWvVPtxepkhw9MjRqOpY6BkLrlsM/edit?usp=drive_link)  
-- 🔗 [Python Automation for Security Logs (Project 2)](https://docs.google.com/document/d/1Z-kOtCX0R4nD8mfAu6BH-wlDQOw5hTS13QKv2ytOQPM/edit?usp=drive_link)  
-- 🔗 [Network Defense Playbook Deployment (Project 3)](https://docs.google.com/document/d/1Oq5Zp6wKmJFBEycgkjFocCuYbC-jIlu0Ag7DK1WOQ44/edit?usp=drive_link)  
-- 🔗 [PCAP Parser – SMTP & Phishing (Project 4)](https://docs.google.com/document/d/1yLnwFJ5xWz9lbpbIArINb21JCZGG_-EoqmruacnXDSw/edit?usp=drive_link)  
-- 🔗 [MITRE ATT&CK Threat Hunt (Project 5)](https://docs.google.com/document/d/1XwtAzbVnzNkj4NXltq_mdqhx8osEYKkFTKAZBjQkSdc/edit?usp=drive_link)  
-- 🔗 [CSIRT Forensics & Phishing Response (Project 6)](https://docs.google.com/document/d/1nhpt1pAovDWqhk37Ti8UNRkEXiQtiLoq-gvo_pg4DHQ/edit?usp=drive_link)  
-- 🔗 [Incident Response & Threat Containment (Project 7)](https://docs.google.com/document/d/1mya2uzPyTom7NP1TYmafHBvP1k_8-j3gXNo0_8sXsdc/edit?usp=drive_link)
+- 🔗 [Project 1 – Secure Coding Practices & Hardening](https://docs.google.com/document/d/1MnTPclQ6vYGlGBQbWvVPtxepkhw9MjRqOpY6BkLrlsM/edit?usp=drive_link)  
+- 🔗 [Project 2 – Python Automation for Security Logs](https://docs.google.com/document/d/1Z-kOtCX0R4nD8mfAu6BH-wlDQOw5hTS13QKv2ytOQPM/edit?usp=drive_link)  
+- 🔗 [Project 3 – Network Defense Playbook Deployment](https://docs.google.com/document/d/1Oq5Zp6wKmJFBEycgkjFocCuYbC-jIlu0Ag7DK1WOQ44/edit?usp=drive_link)  
+- 🔗 [Project 4 – SMTP & Phishing PCAP Parser](https://docs.google.com/document/d/1yLnwFJ5xWz9lbpbIArINb21JCZGG_-EoqmruacnXDSw/edit?usp=drive_link)  
+- 🔗 [Project 5 – MITRE ATT&CK Threat Hunt](https://docs.google.com/document/d/1XwtAzbVnzNkj4NXltq_mdqhx8osEYKkFTKAZBjQkSdc/edit?usp=drive_link)  
+- 🔗 [Project 6 – CSIRT Forensics & Response](https://docs.google.com/document/d/1nhpt1pAovDWqhk37Ti8UNRkEXiQtiLoq-gvo_pg4DHQ/edit?usp=drive_link)  
+- 🔗 [Project 7 – Malware Containment & IR](https://docs.google.com/document/d/1mya2uzPyTom7NP1TYmafHBvP1k_8-j3gXNo0_8sXsdc/edit?usp=drive_link)
 
 ---
 
@@ -79,7 +88,7 @@ Hands-on labs simulating SOC workflows, threat hunting, and secure code analysis
 
 ## ⚡ Fun Fact
 
-I enjoy turning technical problems into teaching moments — whether debugging packet filters or mentoring future engineers on Git workflows and compliance-conscious development.
+I’ve built and contributed to over **130 repositories** — each one reflecting a unique challenge, curiosity, or solution. I believe in code that’s not only functional, but **ethical, traceable, and mission-aligned**.
 
 <!---
 jbamigbade/jbamigbade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
