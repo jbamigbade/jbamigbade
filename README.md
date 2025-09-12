@@ -2,7 +2,7 @@
 
 🎯 **AI Assurance | Clinical AI Developer | Cybersecurity Analyst | Full-Stack Engineer**
 
-I’m a mission-driven technologist with 13+ years of cross-domain experience across clinical research, software development, cybersecurity, and data science. I specialize in building GxP-compliant, secure, and intelligent systems for high-impact industries — from healthcare and telecom to national security.
+I’m a mission-driven technologist with 19+ years of cross-domain experience across clinical research, software development, cybersecurity, and data science. I specialize in building GxP-compliant, secure, and intelligent systems for high-impact industries — from healthcare and telecom to national security.
 
 ---
 
